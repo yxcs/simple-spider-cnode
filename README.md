@@ -1,4 +1,4 @@
-### 一个简单的爬取cnode.org文章的小爬虫
+### 一个简单的爬取[http://cnodejs.org](http://cnodejs.org)文章的小爬虫
 
 使用node爬取 
 同时使用了node的**async**、**cheerio**、**request**插件 
